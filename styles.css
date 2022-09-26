@@ -1,0 +1,35 @@
+.center {
+    text-align: center;
+}
+
+.title {
+    text-align: center;
+    font-size: 4em;
+    font-family: 'Yeseva One', cursive;
+    margin-top: 20px;
+}
+
+h2 {
+    text-align: center;
+}
+
+.resize {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.giticon {
+    width: 20px;
+    height: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(172, 172, 172);
+    color: white;
+  }
+
+.navbar {
+    background-color: rgb(97, 97, 97);
+  }
